@@ -39,3 +39,11 @@ fairseq-generate ${data_dir} \
    --batch-size 50 > ${save_path}/result.gen \
 ```
 
+# Download Model
+| Dataset  | Distilled-data | Combined-data |  
+| ---- | ---- | ---- |
+| WMT EN-RO| [Model]() | [Model]() |
+| WMT RO-EN |[Model]() | [Model]() |
+| WMT EN-DE| [Model]() | [Model]() |
+| WMT DE-EN |[Model]() | [Model]() |
+
