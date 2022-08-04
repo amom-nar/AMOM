@@ -42,8 +42,8 @@ fairseq-generate ${data_dir} \
 # Download Model
 | Dataset  | Distilled-data | Combined-data |  
 | ---- | ---- | ---- |
-| WMT EN-RO| [Model]() | [Model]() |
-| WMT RO-EN |[Model]() | [Model]() |
-| WMT EN-DE| [Model]() | [Model]() |
-| WMT DE-EN |[Model]() | [Model]() |
+| WMT EN-RO| [Model](https://drive.google.com/file/d/1-Zd4_Wah5-71Umz4FB-BVd47OH9mNrCQ/view?usp=sharing) | [Model](https://drive.google.com/file/d/1uuhtIZbIHosEQzclbQtrT9Ewayct8wm8/view?usp=sharing) |
+| WMT RO-EN |[Model](https://drive.google.com/file/d/1x7_Eb-P9tnDC9e3flMYfxMBaUqQePFos/view?usp=sharing) | [Model](https://drive.google.com/file/d/1cwWEkZvsw_pd9eSqwhL12Kd1nLem8h4I/view?usp=sharing) |
+| WMT EN-DE| [Model](https://drive.google.com/file/d/1lcxOpOV0aCf_PMDM2QLa4uh-NIKS0G21/view?usp=sharing) | [Model](https://drive.google.com/file/d/1cAcn2_bLHSEMgevwgSrQopyMlfJjdW3r/view?usp=sharing) |
+| WMT DE-EN |[Model](https://drive.google.com/file/d/1otADXxKRUxB_YWdjtZKxRSxAWECXjcXC/view?usp=sharing) | [Model](https://drive.google.com/file/d/1mPxtI8FwDulLc4029fzLpImLriNgS3si/view?usp=sharing) |
 
